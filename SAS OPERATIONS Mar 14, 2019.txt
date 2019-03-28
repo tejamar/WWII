@@ -1,0 +1,686 @@
+﻿Sirte airfield
+DATE: 8 December 1941 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: unsuccessful 
+Tamit airfield 
+DATE: 12 December 1941 
+UNIT: L Detachment 
+COMMANDER: Captain Mayne 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 24 aircraft destroyed 
+Agheila airfield 
+DATE: 14 December 1941 
+UNIT: L Detachment 
+COMMANDER: Lieutenant 'Jock' Lewes 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: no aircraft at airfield; some Italian vehicles destroyed 
+Agedabia airfield 
+DATE: 21 December 1941 
+UNIT: L Detachment 
+COMMANDER: Lieutenant Fraser 
+LOCATION: Cyrenaica, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 37 Italian CR44 fighter-bombers destroyed 
+Marble Arch airfield 
+DATE: 24 December 1941 
+UNIT: L Detachment 
+COMMANDER: Major Fraser 
+LOCATION: Tripolitania, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: no aircraft at airfield 
+Tamil airfield 
+DATE: 24 December 1941 
+UNIT: L Detachment 
+COMMANDER: Captain Mayne 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 27 aircraft destroyed
+Sirte airfield 
+DATE: 25 December 1941 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: Unsuccessful 
+Nofilia airfield 
+DATE: 26 December 1941 
+UNIT: L Detachment 
+COMMANDER: Lieutenant Lewes 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: only two aircraft destroyed
+Bouerat 
+DATE: 23 January 1942 
+UNIT: L Detachment and Special Boat Section 
+COMMANDER: Captain Stirling 
+LOCATION: port on North African coast 
+OBJECTIVE: to blow up shipping in the harbour 
+OUTCOME: no shipping in harbour, several warehouses and petrol tankers destroyed
+Barce airfield 
+DATE: 8 March 1942 
+UNIT: L Detachment 
+COMMANDER: Major Fraser 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: only one aircraft and several trucks knocked out 
+Benina airfield 
+DATE: 8 March 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: no aircraft present 
+Berka airfield 
+DATE: 8 March 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Mayne
+LOCATION: outskirts of Benghazi, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 15 aircraft destroyed 
+Benghazi 
+DATE: mid-March 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: North African coast 
+OBJECTIVE: to destroy Axis shipping in the harbour 
+OUTCOME: SAS canoe damaged, mission aborted 
+Benina airfield 
+DATE: 25 March 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: five aircraft destroyed 
+Benghazi 
+DATE: 21 May 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Stirling 
+LOCATION: North African coast 
+OBJECTIVE: to destroy Axis shipping in the harbour 
+OUTCOME: dinghies damaged, mission aborted 
+Benina airfield 
+DATE: 13 June 1942 
+UNIT: L Detachment 
+COMMANDER: Major Stirling 
+LOCATION: Gulf of Sirte, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: two aircraft and several workshops destroyed 
+Berka airfield 
+DATE: 13 June 1942 
+UNIT: L Detachment 
+COMMANDER: Lieutenant Zirnheld 
+LOCATION: outskirts of Benghazi, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 11 aircraft destroyed
+Derna airfield 
+DATE: 13 June 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Buck 
+LOCATION: Cyrenaica, North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: party betrayed before it reached the airfield
+Martuba airfield 
+DATE: 13 June 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Tourneret 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: unsuccessful 
+Bagoush airfield 
+DATE: 7 July 1942 
+UNIT: L Detachment 
+COMMANDER: Major Stirling 
+LOCATION; North African coast 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 37 aircraft destroyed 
+El Daba airfield 
+DATE: 7 July 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Jellicoe 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: failed to breach airfield defences; a number of trucks destroyed
+Fuka airfield 
+DATE: 7 July 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Mayne 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 14 aircraft destroyed 
+El Daba airfield 
+DATE: 11 July 1942 
+UNIT: L Detachment 
+COMMANDER: Captain Jellicoe 
+LOCATION; North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: unsuccessful 
+Fuka airfield 
+DATE: 12 July 1942 
+UNIT: 1 Detachment 
+COMMANDER: Major Stirling
+LOCATION: North Africa
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 22 aircraft destroyed 
+Sidi Barrani airfield 
+DATE: 12 July 1942
+UNIT: L Detachment 
+COMMANDER: Captains Warr and Schott 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: unsuccessful 
+Bagoush airfield 
+DATE: 26 July 1942 
+UNIT: L Detachment 
+COMMANDER: unknown 
+LOCATION: North African coast 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: unsuccessful 
+Sidi Haneish airfield 
+DATE: 26 July 1942 
+UNIT: L Detachment 
+COMMANDER: Major Stirling 
+LOCATION: North Africa 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: 40 aircraft destroyed 
+Benghazi 
+DATE: 13 September 1942 
+UNIT: L Detachment 
+COMMANDER: Major Stirling 
+LOCATION: North African coast 
+OBJECTIVE: to destroy Axis shipping in the harbour 
+OUTCOME: SAS column shot up before reaching port
+Operation Snapdragon
+DATE: 28 May 1943 
+UNIT: 2 SAS 
+COMMANDER: unknown 
+LOCATION: island of Pantelleria 
+OBJECTIVE: reconnaissance 
+OUTCOME: unsuccessful 
+Operation Marigold
+DATE: 30 May 1943 
+UNIT: 2 SAS (eight SAS men plus three SBS men) 
+COMMANDER: Captain Dudgeon 
+LOCATION: Sardinia 
+OBJECTIVE: to snatch a prisoner for intelligence purposes
+OUTCOME: unsuccessful 
+Operation Narcissus 
+DATE: 10 July 1943 
+UNIT: 2 SAS (40 men) 
+COMMANDER: Major Scratchley 
+LOCATION: southeast Sicily 
+OBJECTIVE: to seize an enemy battery to support Allied landings 
+OUTCOME: successful (though no guns were present) 
+Operation Chestnut
+DATE: 12 July 1943 
+UNIT: 2 SAS 
+COMMANDER: Captain Pinckney and Captain Bridgeman-Evans 
+LOCATION: northern Sicily 
+OBJECTIVE: to disrupt enemy communications while Allies invaded the island 
+OUTCOME: parties widely scattered,unsuccessful overall.
+Operation Bay town
+DATE: 3 September 1943 
+UNIT: Special Raiding Squadron (1 SAS temporarily renamed) 
+COMMANDER: Lieutenant-Colonel Mayne 
+LOCATION: Bagnara, southern Italy 
+OBJECTIVE: to disrupt German communications in southern Italy 
+OUTCOME: Bagnara was captured, though enemy remained in immediate area 
+Operation Speedwell 
+DATE: 7 September-mid-November 1943 
+UNIT: 2 SAS (14 men) 
+COMMANDER: Captains Pinckney and Dudgeon 
+LOCATION: Spezia/Genoa, northern Italy 
+OBJECTIVE: to cut railway lines 
+OUTCOME: successful 
+Operation Begonia
+DATE: 2-6 October 1943 
+UNIT: 2 SAS (61 men) 
+COMMANDER: Lieutenant McGregor 
+LOCATION: between Ancona and Pescara, eastern Italy 
+OBJECTIVE: to collect escaped Allied POWs 
+OUTCOME: because of poor planning only 50 POWs were rescued
+Operation De110,r
+DATE: 3 October - 5 October 1943 
+UNIT: Special Raiding Squadron 
+COMMANDER: Lieutenant-Colonel Mayne 
+LOCATION: Italy's Adriatic coast 
+OBJECTIVE: to capture Termoli to help British Army break the Termoli line 
+OUTCOME: port taken. though only after sustained enemy resistance 
+Operation Jonquil
+DATE: 2-12 October 1943 
+UNIT: 2 SAS 
+COMMANDER: unknown 
+LOCATION: between Ancona and Pescara, eastern Italy 
+OBJECTIVE: to round up large numbers of freed POWs 
+OUTCOME: complete disaster 
+Operation Ca11dyt1ift
+DATE: 27 October-2 November 1943 
+UNIT: 2 SAS 
+COMMANDER: Major Farran 
+LOCATION: east coast of Italy 
+OBJECTIVE: to cut railway lines between Ancona and Pescara 
+OUTCOME: railway severed and roads mined 
+Operation Saxifrage
+DATE: 27 October-] November 1943 
+UNIT: 2 SAS 
+COMMANDER: Major Farran 
+LOCATION: between Ancona and Pescara, eastern Italy 
+OBJECTIVE: to sever local railway line 
+OUTCOME: railway cut in several places 
+Operation Sleepy Lad 
+DATE: 18 December 1943 
+UNIT: 2 SAS 
+COMMANDER: Major Scratchley 
+LOCATION: Italian east coast 
+OBJECTIVE: to disrupt German road and road communications between Ancon:a and Pescara 
+OUTCOME: much damage inflicted 
+Operation Maple 
+DATE: 7 January 1944 
+UNIT: 2 SAS 
+COMMANDER: unknown 
+LOCATION: Italian cast coast 
+OBJECTIVE: to cut rail communications on Italian east coast 
+OUTCOME: railways attacked successfully, though many SAS men captured 
+Operation Pomegranate
+DATE: 12-17 January 1944 
+UNIT: 2 SAS (six men) 
+COMMANDER: Major Widdrington 
+LOCATION: San Egidio airfield, Italy 
+OBJECTIVE: to destroy Axis aircraft 
+OUTCOME: seven aircraft destroyed 
+Operation Baobab
+DATE: 30 January 1944 
+UNIT: 2 SAS 
+COMMANDER: Lieutenant Laws 
+LOCATION: between Pesaro and Fano, eastern Italy 
+OBJECTIVE: to support Anzio landings by severing strategic railway line 
+OUTCOME: vital bridge destroyed 
+Operation Bulbasket
+DATE: 6 June-10 August 1944 
+UNIT: 1 SAS and a Phantom patrol (56 men) 
+COMMANDER: Captain Tonkin 
+LOCATION: Vienne area, southern France 
+OBJECTIVE: to disrupt enemy movements towards Normandy beachhead 
+OUTCOME: limited successes, Germans very active 
+Operation Dingson
+DATE: 6-18 June 1944 
+UNIT: 4 SAS (160 men) 
+COMMANDER: Commandant Bourgoin 
+LOCATION: Vannes, Brittany 
+OBJECTIVE: to organise Maquis and interfere with enemy movements 
+OUTCOME: limited success 
+Operation Houridsworth 
+DATE: 6 June - 6 September 1944 
+UNIT: 1 SAS (144 men) 
+COMMANDER: Major Fraser 
+LOCATION: west of Dijon, France 
+OBJECTIVE: sever railway lines and disrupt enemy communications 
+OUTCOME: railway lines cut and 220 Germans killed or wounded
+Operation Samwest 
+DATE: 6-9 June 1944 
+UNIT: 4 SAS (116 men) 
+COMMANDER: Captain El Blond 
+LOCATION: northern Brittany, France 
+OBJECTIVE: to prevent German forces moving towards the Normandy beachhead 
+OUTCOME: party scattered owing to poor Maquis security 
+Operation Titariic 
+DATE: 6 June-10 July 1944 
+UNIT: 1 SAS (six men) 
+COMMANDER: Lieutenants Poole and Fowles 
+LOCATION: south of Caren tan, France 
+OBJECTIVE: to fool the Germans into believing a full-scale drop was taking place 
+OUTCOME: unsuccessful 
+Operation Cooney 
+DATE: 7 June 1944 
+UNIT: 4 SAS (54 men) 
+COMMANDER: unknown 
+LOCATION: Brittany, France 
+OBJECTIVE: to sever railway lines 
+OUTCOME: a number of railway lines cut 
+Operation Gain 
+DATE: 7 June-15 August 1944 
+UNIT: 1 SAS 
+COMMANDER: Major Fenwick 
+LOCATION: southwest of Paris, France 
+OBJECTIVE: severing railway lines and enemy lines of communications 
+OUTCOME: railway lines cut on many occasions 
+Operation Lost 
+DATE: 23 June - 18 July 1944 . 
+UNIT: 4 SAS (eight men)
+COMMANDER: Major Elwes 
+LOCATION: Brittany, France
+OBJECTIVE: to establish contact with 'Dingson' party 
+OUTCOME: very successful; large-scale damage inflicted on the enemy 
+Operation Haft
+DATE: 8 July - 11 August 1944 
+UNIT: I SAS (seven men) 
+COMMANDER: unknown 
+LOCATION: Le Mans, northwest France
+OBJECTIVE: to collect intelligence and establish contact with Maquis 
+OUTCOME: useful intelligence gathered
+
+
+Optration Dickens 
+DATE: 16 July - 7 October 1944 
+UNIT: 3 SAS (65 men) 
+COMMANDER: Captain Fournier 
+LOCATION: Nantes/Saumur, western France 
+OBJECTIVE: to sever railway lines and gather intelligence 
+OUTCOME: good; railways cut, SOO, enemy killed and 200 vehicles destroyed
+Optration Defoe 
+DATE: 19 July-23 August 1944 
+UNIT: 2 SAS (22 men) 
+COMMANDER: Captain McGibbon-Lev-.ris 
+LOCATION: Argentan, Normandy 
+OBJECTIVE: reconnaissance 
+OUTCOME: unsuccessful 
+Operation Rupert 
+DATE: 23 July-10 September 1944 
+UNIT: 2 SAS (58 men) 
+COMMANDER: Major Symes 
+LOCATION: Metz area, eastern France OBJECTIVE: to cut as many railway lines as possible 
+OUTCOME: unsuccessful 
+Operation Gaff 
+DATE: 25 July-15 August 1944 
+UNIT: 2 SAS (seven men) 
+COMMANDER: Captain Lee 
+LOCATION: Rambouillet, southwest of Paris 
+OBJECTIVE: to kill Field Marshal Rommel 
+OUTCOME: unsuccessful 
+Operation Hardy
+DATE: 27 July - 1 September 1944 
+UNIT: 2 SAS (56 men) 
+COMMANDER: Captain Hibbert 
+LOCATION: north west of Dijon, France 
+OBJECTIVE: gather intelligence 
+OUTCOME: intelligence gathered and enemy attacked 
+Operation Cl1aucer
+DATE: 28 July-15 August 1944 
+UNIT: 5 SAS (22 men) 
+COMMANDER: Captain Hazel 
+LOCATION: Le mans, northwest France 
+OBJECTIVE: to harry retreating Germans 
+OUTCOME: party dropped too late
+Operation Shakespeare 
+DATE: 31 July-15 August 1944 
+UNIT: 5 SAS (23 men) 
+COMMANDER: Lieutenants Debefre and Limbosen 
+LOCATION: northwest of Le Mans, France 
+OBJECTIVE: to harry retreating Germans 
+OUTCOME: harried Germans and helped rescue 150 downed Allied airmen
+Operation Bunyan 
+DATE: 3-15 August 1944 
+UNIT: 5 SAS (22 men) 
+COMMANDER: Lieutenant Kirschen 
+LOCATION: Chartres, west of Paris 
+OBJECTIVE: to harry retreating enemy forces 
+OUTCOME: damage inflicted and intelligence collected
+Operation D,mhill
+DATE: 3-24 August 1944 
+UNIT: 2 SAS (59 men) 
+COMMANDER: Captain Bell 
+LOCATION: eastern Brittany, France 
+OBJECTIVE: collect intelligence 
+OUTCOME: US breakout overran the SAS soldiers and they were withdrawn 
+Operation Moses 
+DATE: 3 August-5 October 1944 
+UNIT: 3 SAS (48 men) 
+COMMANDER: Captain Simon 
+LOCATION: around Poitiers, southwest France 
+OBJECTIVE: disrupting enemy communications 
+OUTCOME: much damage inflicted on the enemy
+Operation Derry
+DATE: 5-18 August 1944 
+UNIT: 3 SAS 
+COMMANDER: Captain Conan 
+LOCATION: Finisterre, Brittany 
+OBJECTIVE: to hinder enemy movements and stop destruction of two viaducts 
+OUTCOME: both objectives achieved 
+Operation Haggard
+DATE: 10 August-23 September 1944 
+UNIT: 1 SAS (53 men), reinforced later by troop from 3 SAS 
+COMMANDER: Major Lepine 
+LOCATION: between Nevers and Gien, France
+OBJECTIVE: harry retreating Germans and sever their Lines of communication 
+OUTCOME: a few targets attacked, but overrun by advancing Allied forces
+Operation Samson 
+DATE: 10 August-27 September 1944 
+UNIT: 3 SAS (24 men) 
+COMMANDER: Captain Le Blond 
+LOCATION: west of Limoges, southern France 
+OBJECTIVE: to disrupt road traffic and bolster local Maquis 
+OUTCOME: moderately successful; 100 Germans killed
+Operation Marshall
+DATE: 11-24 August 1944 
+UNIT: 3 SAS (32 men) 
+COMMANDER: Captain Wauthier 
+LOCATION: Correze, southern France 
+OBJECTIVE: to raid enemy UNITs and stiffen Maquis 
+OUTCOME: very successful 
+Operation Lo-yton
+DATE: 12 August-9 October 1944 
+UNIT: 2 SAS (91 men) 
+COMMANDER: Lieutenant-Colonel Franks 
+LOCATION: Vosges, eastern France 
+OBJECTIVE: gather intelligence and attack enemy 
+OUTCOME: limited; large number of German troops in area
+Operation Barker 
+DATE: 13 August-19 September 1944 
+UNIT: 3 SAS (27 men) 
+COMMANDER: Lieutenant Rouhan 
+LOCATION: Saone-et-Loire, central France 
+OBJECTIVE: to disrupt enemy movements and support the Maquis 
+OUTCOME: inflicted large-scale damage, including 3000 enemy casualties
+Operation Harrod 
+DATE: 13 August-24 September 1944 
+UNIT: 3 SAS (86 men) 
+COMMANDER: Commandant Conan 
+LOCATION: Saone et Loire, central France 
+OBJECTIVE: disrupt enemy movements and bolster Maquis 
+OUTCOME: enemy targets destroyed; very successful
+Optration Kipling
+DATE: 13 August - 26 September 1944 
+UNIT: 1 SAS (107 men) 
+COMMANDER: Major Marsh 
+LOCATION: west of Auxerre, central France 
+OBJECTIVE: to aid Allied airborne landings in the Orleans Gap 
+OUTCOME: caused many enemy casualties,and assisted in surrender of 3000 German troops
+Operation Snelgrove
+DATE: 13-24 August 1944 
+UNIT: 3 SAS (28 men) 
+COMMANDER: Lieutenant Hubler 
+LOCATION: around Creuse, eastern France 
+OBJECTIVE: to disrupt enemy movements and bolster Maquis 
+OUTCOME: successful 
+Operation 1ockworth
+DATE: 15 August-9 September 1944 UNIT: 3 SAS (58 men) 
+COMMANDER: Captain Hourst 
+LOCATION: southeast France 
+OBJECTIVE: disrupt enemy movements and organise Maquis 
+OUTCOME: major damage inflicted on the Germans 
+Operation Noah
+DATE: 16 August-13 September 1944 UNIT: 5 SAS (42 men) 
+COMMANDER: Captain Blondeel 
+LOCATION: French Ardennes 
+OBJECTIVE: to gather intelligence 
+OUTCOME: very successful; additional damage inflicted on enemy 
+Operation Trueform 
+DATE: 17-26 August 1944 
+UNIT: 1, 2 and 5 SAS (102 men) 
+COMMANDER: Lieutenant-Colonel Franks 
+LOCATION: northwest of Paris, France 
+OBJECTIVE: to harry retreating Germans 
+OUTCOME: partly successful 
+Operation Newton
+DATE: 19 August - 11 September 1944 
+UNIT: 3 SAS (58 men) 
+COMMANDER: Lieutenant de Roquebrune 
+LOCATION: Champagne/Burgundy area, central France 
+OBJECTIVE: to harry retreating Germans 
+OUTCOME: casualties inflicted on enemy
+Operation Wallace 
+DATE: 19 August-19 September 1944 
+UNIT: 2 SAS (60 men) 
+COMMANDER: Major Farran 
+LOCATION: Vosges mountains, eastern France 
+OBJECTIVE: strengthening existing SAS 
+bases and attacking Germans 
+OUTCOME: very successful, including 500 Germans killed or wounded 
+Operation U-olsey
+DATE: 26 August-3 September 1944 
+UNIT: 2 SAS (60 men) 
+COMMANDER: Lieutenant McDevitt 
+LOCATION: around Soissons and Compiegne, northeast France 
+OBJECTIVE: to gather intelligence 
+OUTCOME: very successful 
+Operation Abel
+DATE: 27 August-22 September 1944 
+UNIT: 3 SAS (82 men) 
+COMMANDER: Captain Sicand 
+LOCATION: Vosges and Jura mountains, France 
+OBJECTIVE: to assist Allied capture of the Belfort Gap 
+OUTCOME: numerous attacks against German forces in conjunction with Maquis and troops of French First Army
+Operation Benson 
+DATE: 28 August-1 September 1944 
+UNIT: 5 SAS (seven men) 
+COMMANDER: Lieutenant Kirschen 
+LOCATION: near Amiens, northeast France 
+OBJECTIVE: to collect intelligence on German troop strengths and movements 
+OUTCOME: detailed information regarding enemy deployments collected. 
+Operation Spenser
+DATE: 29 August-14 September 1944 
+UNIT: 4 SAS (318 men) 
+COMMANDER: Commandant Bourgoin 
+LOCATION: around Bourges, central France 
+OBJECTIVE: to inflict damage on retreating Germans 
+OUTCOME: very successful, including 2500 prisoners taken
+Operation Bergbang
+DATE: 2-12 September 1944 
+UNIT: 5 SAS (41 men) 
+COMMANDER: Captain Courtoy 
+LOCATION: Liege-Aachen-Maastrict, Belgium 
+OBJECTIVE: to aid Resistance and sever enemy communications 
+OUTCOME: unsuccessful 
+Operation Brutus
+DATE: 2-15 September 1944 
+UNIT: 5 SAS (19 men) 
+COMMANDER: Captain Blondeel 
+LOCATION: east of River Meuse, Belgium 
+OBJECTIVE: to link up with Resistance and other SAS troops 
+OUTCOME: unsuccessful 
+Operation Caliban
+DATE: 6-11 September 1944 
+UNIT: 5 SAS 
+COMMANDER: Lieutenant Limbosch LOCATION: northeast Belgium 
+OBJECTIVE: to sever German communications west of River Meuse 
+OUTCOME: mostly unsuccessful 
+Operation Pistol
+DATE: 15 September 3 October 1944 
+UNIT: 2 SAS (51 men) 
+COMMANDER: Captains Scott and Holland 
+LOCATION: Alsace/Lorraine, eastern France 
+OBJECTIVE: to cut enemy communications between Rivers Rhine and Moselle 
+OUTCOME: partly successful, though local population hostile 
+Operation Fabian 
+DATE: 16 September 1944 - 14 March 1945 
+UNIT: 5 SAS (five men) 
+COMMANDER: Lieutenant Kirschen 
+LOCATION: around Arnhem, Holland 
+OBJECTIVE: to collect intelligence regarding enemy dispositions and V-2 sites 
+OUTCOME: useful intelligence gathered 
+Optration Gobbo 
+DATE: 27 September 1944 - 17 March 1945 
+UNIT: 5 SAS (seven men) 
+COMMANDER: Lieutenant Debefre 
+LOCATION: northern Holland 
+OBJECTIVE: to gather intelligence 
+OUTCOME: unsuccessful
+Operation Franklin
+DATE: 24 December 1944 - 25 January 1945
+UNIT :4 SAS (186 men)
+COMMANDER: Captain Puech-Samson
+LOCATION: Belgian Ardennes
+OBJECTIVE: to support left flank of US VIII Corps
+OUTCOME: much reconnaissance and fighting undertaken
+ 
+Operation Galia
+DATE: 27 December 1944-15 February 1945
+UNIT: 2 SAS (35 men)
+COMMANDER: Captain Walker-Brown
+LOCATION: between Genoa and La Spezia, northern ltaly
+OBJECTIVE: disrupting enemy communications and liaising with partisans
+OUTCOME: extremely successful; casualties inflicted and a large number of Germans troops tied down
+Operation Regent
+DATE: 27 December 1944 -15 January 1945
+UNIT: 5 SAS
+COMMANDER: Captain Blondeel
+LOCATION: the Ardennes
+OBJECTIVE: supporting British armoured units during German offensive
+OUTCOME: successful
+Operation Cold Comfort
+DATE: 17 February - 31 March 1945
+UNIT: 2 SAS (13 men) 
+COMMANDER: Captain Littlejohn 
+LOCATION: Verona, northern Italy
+OBJECTIVE: to block the railway line leading to the Brenner Pass
+OUTCOME: unsuccessful 
+Operation Tombola
+DATE: 4 March - 24 April 1945
+UNIT: 2 SAS (50 men)
+COMMANDER: Major Farran
+LOCATION: around La Spezia and Bologna, northern Italy
+OBJECTIVE: to stiffen Resistance and harry Germans
+OUTCOME: very successful; 600 enemy dead 
+Operation Archway
+DATE: 25 March-3  May
+UNIT: 1 and 2 S A S (430 m e n and 75 jeeps)
+COMMANDER: Lieutenant-Colonel Brian Franks
+LOCATION: east of the River Rhine to Kiel, Germany
+OBJECTIVE: to assist advance of British 21st Army Group
+OUTCOME: achieved its objective 
+Operation Canuck
+DATE: April 1945
+UNIT: 2 SAS
+COMMANDER: Captain McDonald
+LOCATION: Italian Riviera
+OBJECTIVE: disrupt enemy communications
+OUTCOME: partisans equipped and garrison of Alba overrun
+Operation Larkswood
+Dare: 3 April-8 May 1945
+UNIT: 5 SAS
+COMMANDER: Captain Blondeel
+LOCATION: northeast Holland and into Germany
+OBJECTIVE: to recce for the Canadian II Corps
+OUTCOME: moderately successful
+Operation Howard
+DATE: 6 April-6 May 1945
+UNIT: 1 SAS
+COMMANDER: Lieutenant-Colonel Mayne
+LOCATION: Oldenburg, northwest Germany
+OBJECTIVE: to recce for the Canadian 4th Armoured Division
+OUTCOME: SAS suffered heavy casualties; only partially successful 
+Operation Amhtrst
+DATE: 8-16 April 1945
+UNIT: 3 and 4 SAS (700 men and 18 jeeps) 
+COMMANDER: Colonel Prendergast 
+LOCATION: Groningen, Coevordon and Zwolle, northeast Holland
+OBJECTIVE: to prevent Germans establishing a defensive line against the advancing Canadian First Army
+OUTCOME: mostly successful. SAS harried enemy and inflicted 270 killed, 220 wounded and 187 captured 
+Operation Ktystont
+DATE: 11 - 18 April 1945
+UNIT: 2 SAS
+COMMANDER: Major Druce
+LOCATION: south of ljsselmeer, Holland
+OBJECTIVE: to interfere with enemy movements and capture bridges over the Apeldoorn Canal
+OUTCOME: some damage and casualties inflicted upon the enemy
+Operation Apostle
+DATE: 12 May - 31 August 1945
+UNIT: 1 and 2 SAS, HQ SAS Brigade (845 men)
+COMMANDER: Brigadier Calvert
+LOCATION: Norway
+OBJECTIVE: to disarm 300,000 German troops in Norway following end of World War II
+OUTCOME: successful
