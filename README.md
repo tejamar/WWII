@@ -4,11 +4,21 @@ This is a repo for groups I and II spring 2019 it consists of the **workflow** a
 
 [GitHub Markdown](https://help.github.com/en/categories/writing-on-github)
 
-### BACKGROUND
+### PROJECT BACKGROUND
 
-Special operations forces _(SOFs)_ appeared in the international media in the 1970s. Hijackings of airplanes by terrorists and other hostage crises drew these clandestine units out of the shadows. Since then, SOFs have gained a reputation for daring counterterrorism operations. 
+Special operations forces _(SOFs)_ had gained increasing prominence since the 1970s. When terrorists began to hijack civilian  airplanes, these clandestine units came out of the shadows and became synonymous with counterterrorism operations. Yet, terrorism was not the cause for the appearance of SOFs. 
 
-In fact, terrorism is not the cause for the rise of SOFs. Modern-day SOFs appeared at the onset of the Second World War. Since then they have constituted an integral part of the **transformation of modern warfare**. 
+Modern-day SOFs appeared at the onset of the Second World War. 
+
+On June 3rd 1940 Prime Minister Winston Churchill wrote to the Chief of Staff:
+
+"The completely defensive habit of mind, which has ruined the French, must not be allowed to ruin all our
+initiative. It is of the highest consequence to keep the largest numbers of German forces all along the
+coasts of the countries that have been conquered, and we should immediately set to work to organise
+raiding forces on these coasts. Enterprises must be prepared with specially trained troops by the hunter
+class, who can develop a reign of terror first of all on the “butcher and bolt” policy."
+
+Since then they have constituted an integral part of the **transformation of modern warfare**. 
 
 Indeed, in recent conflicts, SOFs have gradually replaced the infantry and other land army units and established themselves as the core branch of land warfare.
 
