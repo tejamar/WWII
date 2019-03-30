@@ -18,6 +18,8 @@ Two days later he added:
 
 > Enterprises must be prepared with specially trained troops of the hunter class, who can develop a reign of terror first of all on the 'butcher and bolt' policy. I look to the Chiefs of Staff to propose me measures for a vigorous, enterprising and ceaseless offensive against the whole German occupied coastline.
 
+Source: _“No 1 Commando.” n.d. Combined Operations. Accessed March 30, 2019._
+
 Since then they have constituted an integral part of the **transformation of modern warfare**. 
 
 Indeed, in recent conflicts, SOFs have gradually replaced the infantry and other land army units and established themselves as the core branch of land warfare.
