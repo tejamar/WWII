@@ -12,7 +12,7 @@ Modern-day SOFs appeared at the onset of the Second World War.
 
 On June 3rd 1940 Prime Minister Winston Churchill wrote to the Chief of Staff:
 
-"The completely defensive habit of mind, which has ruined the French, must not be allowed to ruin all our
+> "The completely defensive habit of mind, which has ruined the French, must not be allowed to ruin all our
 initiative. It is of the highest consequence to keep the largest numbers of German forces all along the
 coasts of the countries that have been conquered, and we should immediately set to work to organise
 raiding forces on these coasts. Enterprises must be prepared with specially trained troops by the hunter
