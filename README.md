@@ -12,11 +12,11 @@ Modern-day SOFs appeared at the onset of the Second World War.
 
 On June 3rd 1940 Prime Minister Winston Churchill wrote to the Chief of Staff:
 
-> "The completely defensive habit of mind, which has ruined the French, must not be allowed to ruin all our
-initiative. It is of the highest consequence to keep the largest numbers of German forces all along the
-coasts of the countries that have been conquered, and we should immediately set to work to organise
-raiding forces on these coasts. Enterprises must be prepared with specially trained troops by the hunter
-class, who can develop a reign of terror first of all on the “butcher and bolt” policy."
+> The completely defensive habit of mind, which has ruined the French, must not be allowed to ruin all our initiative. It is of the highest consequence to keep the largest numbers of German forces all along the coasts of the countries that have been conquered, and we should immediately set to work to organise raiding forces on these coasts where the populations are friendly. Such forces might be composed by self-contained, thoroughly equipped units of say 1,000 up to not less than 10,000 when combined.
+
+Two days later he added:
+
+> Enterprises must be prepared with specially trained troops of the hunter class, who can develop a reign of terror first of all on the 'butcher and bolt' policy. I look to the Chiefs of Staff to propose me measures for a vigorous, enterprising and ceaseless offensive against the whole German occupied coastline.
 
 Since then they have constituted an integral part of the **transformation of modern warfare**. 
 
