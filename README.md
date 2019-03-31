@@ -45,5 +45,9 @@ As a result, military intelligence agencies had expanded and became increasingly
 - Performance
 
 #### WORKFLOW
-
-Event - Date
+1. Data Gathering.
+2. Data Formating (OCR).
+3. Search within the Data:
+- TIMELINE. Event _(text)_ Date _(mm,dd,yyyy)_.
+- ACTORS. Individuals _(text)_, Organizations _(text)_.
+- LOCATIONS. City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
