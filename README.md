@@ -30,6 +30,14 @@ The unceasing technological breakthroughs during and after WWI earned the era wi
 
 As a result, military intelligence agencies had expanded and became increasingly attentive to technological changes in rival armed forces. However, gathering intelligence regarding enemies’ capabilities, let alone plans, was an arduous challenge. 
 
+----
+## GENERAL OBJECTIVES
+
+### DETAILED OBJECTIVES
+
+1. Structuring Unstructured Data. 
+2. Process Tracing
+
 ### QUESTIONS
 
 ### METHOD
@@ -51,3 +59,7 @@ As a result, military intelligence agencies had expanded and became increasingly
 - TIMELINE. Event _(text)_ Date _(mm,dd,yyyy)_.
 - ACTORS. Individuals _(text)_, Organizations _(text)_.
 - LOCATIONS. City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
+
+#### GROUP 1
+
+#### GROUP 2
