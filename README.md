@@ -8,7 +8,7 @@ _Written with [GitHub Markdown](https://help.github.com/en/categories/writing-on
 
 Special operations forces _(SOFs)_ had gained increasing prominence since the 1970s. When terrorists began to hijack civilian  airplanes, these clandestine units came out of the shadows and became synonymous with counterterrorism operations. Yet, terrorism was not the cause for the appearance of SOFs. 
 
-Modern-day SOFs appeared at the onset of the Second World War. 
+Modern-day SOFs appeared at the onset of the Second World War. The unceasing technological breakthroughs during and after WWI earned the era with the title **The Second Industrial Revolution**. The tanks, submarines, aircraft carriers, and heavy bombers that evolved during those years raised the stakes of each confrontation.
 
 On June 3rd 1940 Prime Minister Winston Churchill wrote to the Chief of Staff:
 
@@ -24,14 +24,9 @@ Indeed, in recent conflicts, SOFs have gradually replaced the infantry and other
 
 The rise of SOFs to prominence is far from obvious. Clandestine missions have always been part of warfare. Due to their deceptive nature, the operations and the individuals who carried them out were notorious. When militaries had to resort to such inglorious operations they often relegated them to mercenaries or to second-rate soldiers. 
 
-The unceasing technological breakthroughs during and after WWI earned the era with the title **The Second Industrial Revolution.** The tanks, submarines, aircraft carriers, and heavy bombers that evolved during those years raised the stakes of each confrontation. 
-
-As a result, military intelligence agencies had expanded and became increasingly attentive to technological changes in rival armed forces. However, gathering intelligence regarding enemies’ capabilities, let alone plans, was an arduous challenge. 
 
 ----
-## GENERAL OBJECTIVES
-
-### DETAILED OBJECTIVES
+### OBJECTIVES
 
 - Structuring Unstructured Data. 
 - Process Tracing
