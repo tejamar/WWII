@@ -1,24 +1,16 @@
-# FORMATION OF SOFS
-
-# INTRODUCTION
-
 Special operations forces (SOFs) appeared in the international media in the 1970s. Hijackings of airplanes by terrorists and other hostage crises pulled these clandestine units out of the shadows. Since then, SOFs have gained a reputation for daring counterterrorism operations. In fact, terrorism is not the cause of the rise of SOFs. Modern-day SOFs appeared at the onset of the Second World War. Since then they have constituted an integral part of the transformation of modern warfare. In recent conflicts, SOFs succeeded the infantry and other land army units and established themselves as the core organ of land warfare.
 
 Placing SOFs in the broader discussions on military power and military innovations, I will first offer a new conceptualization of this branch. Next, I will
 
 hostage rescues and placed them on the path to their current fame [(Connelly and Willcox 2005)](https://paperpile.com/c/AjC4jq/ILFB).
 
-# AMBIGUOUS CONCEPTS
-
-In this section, I will introduce and discuss two ambiguous concepts which are central for the arguments in the paper. The first is special operations forces in the second is military innovations
 
 ## SPECIAL OPERATIONS FORCES
 
 Many concepts suffer from inconsistencies, fuzzy boundaries, and overlaps. However, the terminology that pertains to the special operations forces is uniquely obscure. The literature offers several alternative labels for these units: Irregular Fighters, Commandos, Elite Units, Special Forces and most prominently Special Operations Forces. The costly stalemate of WWI sent the fighting militaries on frantic searches for tiebreakers.
 
-# THE INDUSTRIAL REVOLUTION
+## THE INDUSTRIAL REVOLUTION
 
-פעולות מיוחדות אינן תופעה חדשה.
 
 Clandestine missions have always been part of warfare. Due to their deceptive nature, the operations and the individuals who carried them out were notorious. When militaries had to resort to such inglorious operations they often relegated them to mercenaries or to second-rate soldiers [(Arquilla 2011, page 5; Boot 2013, page 23)](https://paperpile.com/c/AjC4jq/dcg0+dBg6/?locator=5,23).
 
@@ -60,8 +52,6 @@ UK as early as 1940, only several days after Britain concluded the evacuation of
 ## MILITARY INNOVATIONS
 
 The constant change in the nature of war over the course of the twentieth century has drawn scholarly attention to the concepts of military innovations, adaptations, and diffusion. Seminal works in the field corresponded with the perspective that equated technological innovations with greater battlefield effectiveness [(Posen 1984; Evangelista 1988)](https://paperpile.com/c/AjC4jq/3by6+w2Mv). The “modern system” thesis, according to which battlefield efficiency depends not only on technological advantages but also on how such advantages are used, broadened the scope of the term innovations [(Biddle 2004)](https://paperpile.com/c/AjC4jq/cImI). and underscored the significance of strategic and organizational innovations
-
-METHOD
 
 ## METHOD
 
