@@ -1,4 +1,3 @@
-Special operations forces (SOFs) appeared in the international media in the 1970s. Hijackings of airplanes by terrorists and other hostage crises pulled these clandestine units out of the shadows. Since then, SOFs have gained a reputation for daring counterterrorism operations. In fact, terrorism is not the cause of the rise of SOFs. Modern-day SOFs appeared at the onset of the Second World War. Since then they have constituted an integral part of the transformation of modern warfare. In recent conflicts, SOFs succeeded the infantry and other land army units and established themselves as the core organ of land warfare.
 
 Placing SOFs in the broader discussions on military power and military innovations, I will first offer a new conceptualization of this branch. Next, I will
 
