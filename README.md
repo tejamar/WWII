@@ -16,9 +16,7 @@ On June 3rd 1940 Prime Minister Winston Churchill wrote to the Chief of Staff:
 
 Two days later he added:
 
-> Enterprises must be prepared with specially trained troops of the hunter class, who can develop a reign of terror first of all on the 'butcher and bolt' policy. I look to the Chiefs of Staff to propose me measures for a vigorous, enterprising and ceaseless offensive against the whole German occupied coastline.
-
-Source: _“No 1 Commando.” n.d. Combined Operations. Accessed March 30, 2019._
+> Enterprises must be prepared with specially trained troops of the hunter class, who can develop a reign of terror first of all on the 'butcher and bolt' policy. I look to the Chiefs of Staff to propose me measures for a vigorous, enterprising and ceaseless offensive against the whole German occupied coastline. [Source]( https://www.combinedops.com/No%201%20Commando.htm) _Accessed March 30, 2019._
 
 Since then they have constituted an integral part of the **transformation of modern warfare**. 
 
