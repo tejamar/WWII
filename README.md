@@ -2,7 +2,7 @@
 
 This is a repo for groups I and II spring 2019 it consists of the **workflow** and **data** 
 
-[GitHub Markdown](https://help.github.com/en/categories/writing-on-github)
+_Written with [GitHub Markdown](https://help.github.com/en/categories/writing-on-github)_
 
 ### PROJECT BACKGROUND
 
@@ -35,16 +35,17 @@ As a result, military intelligence agencies had expanded and became increasingly
 
 ### DETAILED OBJECTIVES
 
-1. Structuring Unstructured Data. 
-2. Process Tracing
+- Structuring Unstructured Data. 
+- Process Tracing
 
 ### QUESTIONS
 
 ### METHOD
 
-##### UNIT OF ANALYSIS
+##### UNITS OF ANALYSIS
 
 - Military Units
+- Military Operations
 
 ##### DEPENDENT VARIABLES
 
@@ -56,9 +57,9 @@ As a result, military intelligence agencies had expanded and became increasingly
 1. Data Gathering.
 2. Data Formating (OCR).
 3. Search within the Data:
-- TIMELINE. Event _(text)_ Date _(mm,dd,yyyy)_.
-- ACTORS. Individuals _(text)_, Organizations _(text)_.
-- LOCATIONS. City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
+- **TIMELINE.** Event _(text)_ Date _(mm,dd,yyyy)_.
+- **ACTORS.** Individuals _(text)_, Organizations _(text)_.
+- **LOCATIONS.** City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
 
 #### GROUP 1
 
