@@ -55,19 +55,19 @@ The rise of SOFs to prominence is far from obvious. Clandestine missions have al
 - Military Units
 - Military Operations
 
-#### WORKFLOW
+### WORKFLOW
 
-##### Data Gathering
+##### DATA GATHERING
 
 I have completed this phase of the work. At this point I believe that we have enough unstructured data formatted as _OCR_. I use **Evernote** as my main tool for collecting and archiving unstructured data. However, for those of you who prefer to use **Notion**, I made a copy of all the documents to this tool as well.
 
-##### Structuring the Data
+##### DATA STRUCTURING 
 
 We can use different tools to structure the data. Before we choose a particular tool we should consider the kind of data that we are looking for.
 There are several software dedicated to creating timelines. After I explored them I reached the conclusion that working with such applications as our main tool would be unwise. Timelines feed off spreadsheets and CSV files. 
 Hence, it would be easier to choose a spreadsheet and start the work from there.
 
-**TIMELINE.** 
+**TIMELINE** 
 - Unit _(text)_ Date _(mm,dd,yyyy)_.
 - Event _(text)_ Date _(mm,dd,yyyy)_.
 
@@ -75,15 +75,15 @@ The key questions that we explore why did special operations forces gain legitim
 First, we need to place each unit on the timeline of the second world war. Preferably, with the exact relevant dates.
 Second, we have to place each event or operation in which the unit took part in the same timeline. 
 
-**ACTORS.** 
+**ACTORS** 
 - Individuals _(text)_. 
 - Organizations _(text)_.
 
-**LOCATIONS.** 
+**LOCATIONS** 
 - City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
 
-#### DIVISION OF LABOR
+### DIVISION OF LABOR
 
-- **Github Managment** 2 Students.
-- **Units Data Managment** 2 Students.
-- **Operations Data Managment** 2 Students. 
+- **Github Managment** (2 Students).
+- **Units Data Managment** (2 Students).
+- **Operations Data Managment** (2 Students). 
