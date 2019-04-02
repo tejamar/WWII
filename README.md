@@ -81,3 +81,9 @@ Second, we have to place each event or operation in which the unit took part in 
 
 **LOCATIONS.** 
 - City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
+
+#### DIVISION OF LABOR
+
+- **Github Managment** 2 Students.
+- **Units Data Managment** 2 Students.
+- **Operations Data Managment** 2 Students. 
