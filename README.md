@@ -44,36 +44,34 @@ Since then they have constituted an integral part of the **transformation of mod
 
 The rise of SOFs to prominence is far from obvious. Clandestine missions have always been part of warfare. Due to their deceptive nature, the operations and the individuals who carried them out were notorious. When militaries had to resort to such inglorious operations they often relegated them to mercenaries or to second-rate soldiers. 
 
-
 ----
 ### OBJECTIVES
 
 - Structuring Unstructured Data. 
 - Process Tracing
 
-### QUESTIONS
-
-### METHOD
-
 ##### UNITS OF ANALYSIS
 
 - Military Units
 - Military Operations
 
-##### DEPENDENT VARIABLES
-
-- Formation
-- Longevity
-- Performance
-
 #### WORKFLOW
-1. Data Gathering.
-2. Data Formating (OCR).
-3. Search within the Data:
-- **TIMELINE.** Event _(text)_ Date _(mm,dd,yyyy)_.
+
+##### Data Gathering
+
+I have completed this phase of the work. At this point I believe that we have enough unstructured data formatted as _OCR_. I use **Evernote** as my main tool for collecting and archiving unstructured data. However, for those of you who prefer to use **Notion**, I made a copy of all the documents to this tool as well.
+
+##### Structuring the Data
+
+- **TIMELINE.** 
+Unit _(text)_ Date _(mm,dd,yyyy)_.
+
+Event _(text)_ Date _(mm,dd,yyyy)_.
+
+The key questions that we explore why did special operations forces gain legitimacy during the second world war, and to what extent have they served the purpose for which they were created. Both questions require meticulous and dynamic timeline.
+First, we need to place each unit on the timeline of the second world war. Preferably, with the exact relevant dates.
+Second, we have to place each event or operation in which the unit took part in the same timeline. 
+
 - **ACTORS.** Individuals _(text)_, Organizations _(text)_.
+
 - **LOCATIONS.** City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
-
-#### GROUP 1
-
-#### GROUP 2
