@@ -63,15 +63,21 @@ I have completed this phase of the work. At this point I believe that we have en
 
 ##### Structuring the Data
 
-- **TIMELINE.** 
-Unit _(text)_ Date _(mm,dd,yyyy)_.
+We can use different tools to structure the data. Before we choose a particular tool we should consider the kind of data that we are looking for.
+There are several software dedicated to creating timelines. After I explored them I reached the conclusion that working with such applications as our main tool would be unwise. Timelines feed off spreadsheets and CSV files. 
+Hence, it would be easier to choose a spreadsheet and start the work from there.
 
-Event _(text)_ Date _(mm,dd,yyyy)_.
+**TIMELINE.** 
+- Unit _(text)_ Date _(mm,dd,yyyy)_.
+- Event _(text)_ Date _(mm,dd,yyyy)_.
 
 The key questions that we explore why did special operations forces gain legitimacy during the second world war, and to what extent have they served the purpose for which they were created. Both questions require meticulous and dynamic timeline.
 First, we need to place each unit on the timeline of the second world war. Preferably, with the exact relevant dates.
 Second, we have to place each event or operation in which the unit took part in the same timeline. 
 
-- **ACTORS.** Individuals _(text)_, Organizations _(text)_.
+**ACTORS.** 
+- Individuals _(text)_. 
+- Organizations _(text)_.
 
-- **LOCATIONS.** City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
+**LOCATIONS.** 
+- City _(text)_, State _(text)_, Country _(text)_, Region _(text)_, Coordinates _(lon, lat)_.
