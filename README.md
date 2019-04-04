@@ -54,6 +54,8 @@ The rise of SOFs to prominence is far from obvious. Clandestine missions have al
 
 - Military Units
 - Military Operations
+- Individuals
+- Networks
 
 ### WORKFLOW
 
