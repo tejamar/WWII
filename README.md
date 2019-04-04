@@ -84,6 +84,7 @@ Second, we have to place each event or operation in which the unit took part in 
 
 ### DIVISION OF LABOR
 
-- **Github Managment** (2 Students).
-- **Units Data Managment** (2 Students).
-- **Operations Data Managment** (2 Students). 
+- **Github Management** (2 Students).
+- **Units Data Management** (2 Students).
+- **Operations Data Management** (2 Students).
+- **Individuals Data Management** (2 Students). 
